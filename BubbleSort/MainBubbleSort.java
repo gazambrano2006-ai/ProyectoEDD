@@ -1,7 +1,6 @@
 package EI;
 
 import TDAs.DoublyLinkedList;
-import TDAs.Edge;
 
 public class MainBubbleSort {
     public static void main(String[] args) {
